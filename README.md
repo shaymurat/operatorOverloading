@@ -2,7 +2,7 @@
 
 Если вы решали старую версию задачи, проверка будет производиться по ней.
 
-Ссылка на старую версию [тут] (https://docs.google.com/document/d/1u9LBWWKLEhW1-mBh6wYytgcW4GNmnMeT7A6dXsGzLmQ/edit?usp=sharing).
+Ссылка на старую версию [тут](https://docs.google.com/document/d/1u9LBWWKLEhW1-mBh6wYytgcW4GNmnMeT7A6dXsGzLmQ/edit?usp=sharing).
 
 Цель: применить знания о перегурзке арифметических операторов и операторов
 сравнения.
@@ -10,7 +10,7 @@
 ## Задача "Нужно больше этажей":
 
 Для решения этой задачи будем пользоваться решением к предыдущей задаче
-["Специальные методы класса"] (https://urban-university.ru/members/courses/course999421818026/20231027-0000domasnaa-rabota-po-uroku-specialnye-metody-klassov-854615870903).
+["Специальные методы класса"](https://urban-university.ru/members/courses/course999421818026/20231027-0000domasnaa-rabota-po-uroku-specialnye-metody-klassov-854615870903).
 
 Необходимо дополнить класс House следующими специальными методами:
 1. ```__eq__(self, other)``` - должен возвращать True, если количество
